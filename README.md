@@ -1,4 +1,4 @@
-This applicatio was developed for the subject Human Computer Interaction. To run the project, go to MODULE-PL-I-3-Carolina-Barrios/src/cpm/module/Main.java in Eclipse or some simmilar application and run it.
+This applicatio was developed for the subject Human Computer Interaction. To run the project, go to MODULE-PL-I-3-Carolina-Barrios/src/cpm/module/Main.java in Eclipse or some simmilar application and run it.\n
 The introduction offered by the teachers of the subject is the following:
 It seems that, so far this year, an alarming increase in paranormal activity has been detected in various
 castles in Europe. Experts in the subject have documented chilling events such as apparitions, movement
